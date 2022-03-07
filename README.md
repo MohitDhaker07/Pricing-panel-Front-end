@@ -1,1 +1,1 @@
-# Pricing-panel-Front-end
+# Simple pricing panel Front-end design
